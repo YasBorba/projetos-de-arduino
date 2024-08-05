@@ -41,6 +41,6 @@ void loop()
   digitalWrite(ledvd2, LOW);//verde pedestre 
   digitalWrite(ledvm2,HIGH); //vermelho pedestre 
   delay(t2);
-  digitalWrite(ledvm, LOW);//vermelho carro
+  digitalWrite(ledvm, LOW);
   
 }
