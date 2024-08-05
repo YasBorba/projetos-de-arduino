@@ -3,4 +3,5 @@
 projetos:
 * piscar um led
 * piscar dois leds
-* led com botao 
+* led com botao
+* semaforo simples  
