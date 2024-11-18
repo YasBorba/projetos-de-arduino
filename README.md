@@ -1,7 +1,7 @@
-## Projeto desenvolvido para o arduino
+# Projeto desenvolvido para o arduino 🚦
 
-projetos:
-* piscar um led
-* piscar dois leds
-* led com botao
-* semaforo simples  
+## Projetos 🗒️:
+* Piscar um led
+* Piscar dois leds
+* Led com botao
+* Semaforo simples  
